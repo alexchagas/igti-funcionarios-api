@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: alex
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: alex
+Implementation-Vendor-Id: com.igti
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/alex
+Created-By: Maven Integration for Eclipse
+
