@@ -1,0 +1,12 @@
+com/igti/alex/model/AbstractUuidEntity.class
+com/igti/alex/model/AbstractEntity.class
+com/igti/alex/model/Pessoa.class
+com/igti/alex/service/FuncionarioService.class
+com/igti/alex/controller/FuncionarioController.class
+com/igti/alex/dto/DependenteDTO.class
+com/igti/alex/repository/DependenteRepository.class
+com/igti/alex/dto/FuncionarioDTO.class
+com/igti/alex/model/Dependente.class
+com/igti/alex/repository/PessoaRepository.class
+com/igti/alex/service/impl/FuncionarioServiceImpl.class
+com/igti/alex/MainApplication.class
